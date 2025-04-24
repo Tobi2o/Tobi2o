@@ -11,19 +11,23 @@ En parallèle de mon intérêt pour la tech, je suis passionné par le sport, la
 
 ---
 
-<!-- Bloc 3 widgets alignés -->
-<div align="center">
-  <!-- Spotify -->
-  <img src="https://novatorem-pv.vercel.app/api/spotify?background_color=ffffff&border_color=000000" alt="Spotify Now Playing" height="160" />
-  &nbsp;&nbsp;&nbsp;
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Tobi2o&theme=default&hide_border=false&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;
-  <!-- GitHub Langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobi2o&theme=default&hide_border=true&layout=compact" height="160" alt="Top Languages" />
-</div>
+<p align="center">
+  <span style="float:left; margin-right: 20px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://novatorem-pv.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" />
+      <source media="(prefers-color-scheme: light)" srcset="https://novatorem-pv.vercel.app/api/spotify?background_color=ffffff&border_color=000000" />
+      <img src="https://novatorem-pv.vercel.app/api/spotify?background_color=ffffff&border_color=000000" height="160" />
+    </picture>
+  </span>
 
+  <span style="float:left; margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Tobi2o&theme=default&hide_border=false&include_all_commits=true&count_private=true" height="160" />
+  </span>
 
+  <span style="float:left;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobi2o&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160" />
+  </span>
+</p>
 
 
 ---

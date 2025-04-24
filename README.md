@@ -7,14 +7,32 @@ Arrivant au cours de mon cursus, je vise à intégrer une structure dynamique o�
 
 
 
-<!-- Graphiques GitHub -->
+<!-- DISPLAY 3 COLONNES : STATS | SPOTIFY | LANGUAGES -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tobi2o&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tobi2o&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+  <table>
+    <tr>
+      <td><strong>Mes statistiques</strong></td>
+      <td><strong>Ce que j'écoute</strong></td>
+      <td><strong>Langages les plus utilisés</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Tobi2o&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" />
+      </td>
+      <td>
+        <a href="https://open.spotify.com/user/Tobioo">
+          <img src="https://novatorem-pv.vercel.app/api/spotify" height="180" />
+        </a>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tobi2o&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" />
+      </td>
+    </tr>
+  </table>
+
 </div>
 
-<!-- Spotify -->
-[![Spotify](https://novatorem-pv.vercel.app/api/spotify)](https://open.spotify.com/user/Tobioo)
 
 
 <!-- Logos de technos déjà fournis -->

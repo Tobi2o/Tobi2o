@@ -1,75 +1,41 @@
-<h2 align="left">Yoo, on me surnomme Tobioo et je suis un étudiant en ingénierie informatique, spécialisé en cybersécurité.</h2>
 
-<p align="left">
+# Whoami
+
+Yoo, je m'appelle Ouweis Harun et je suis un étudiant en ingénierie informatique à l'HEIG-VD, spécialisé en cybersécurité.
+
 Actuellement en dernière année de Bachelor, je me passionne pour la sécurité offensive (tests d'intrusion, cryptanalyse, reverse engineering) et défensive (analyse mémoire, forensic, durcissement).  
-Arrivant au cours de mon cursus, je vise à intégrer une structure dynamique où je pourrai approfondir mes connaissances, relever des défis concrets, et évoluer en tant que professionnel de la cybersécurité.
-</p>
 
+Ce dépôt GitHub a pour objectif de rassembler l'ensemble de mes projets, exercices et réalisations techniques, afin de garder une trace structurée de mon parcours et de valoriser mes compétences à long terme. Il me sert également de vitrine professionnelle dans le cadre de ma recherche d'emploi dans le domaine de la cybersécurité.
 
+En parallèle de mon intérêt pour la tech, je suis passionné par le sport, la musique et tout ce qui touche à la performance — qu’elle soit intellectuelle ou physique.
 
-<h2 align="left">Statistiques GitHub</h2>
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tobi2o&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tobi2o&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<!-- Widgets (Spotify + GitHub) -->
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: flex-end;">
+
+  <!-- Spotify -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://novatorem-pv.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://novatorem-pv.vercel.app/api/spotify?background_color=ffffff&border_color=000000" />
+    <img src="https://novatorem-pv.vercel.app/api/spotify?background_color=ffffff&border_color=000000" alt="Spotify Now Playing" height="160" />
+  </picture>
+
+  <!-- GitHub Langs -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Tobi2o&theme=default&hide_border=false&include_all_commits=true&count_private=true" height="160" alt="Top Languages" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobi2o&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160" alt="GitHub Stats" />
+
 </div>
 
 ---
 
-<h2 align="left">Ce que j’écoute actuellement</h2>
+## Tech
 
-<!-- Pour thème sombre -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://novatorem-pv.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://novatorem-pv.vercel.app/api/spotify?background_color=ffffff&border_color=000000" />
-  <img src="https://novatorem-pv.vercel.app/api/spotify?background_color=ffffff&border_color=000000" alt="Spotify Now Playing" />
-</picture>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-
----
-
-<h2 align="left">Technologies & Outils</h2>
-
-<div align="left" style="margin-bottom: 20px;">
-  <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.rust-lang.org/" style="display: inline-block;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="42" height="42" />
-</a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
-<a target="_blank" href="https://www.adobe.com/products/illustrator.html" style="display: inline-block;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="42" height="42" /> </a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42" /></a>
-<a target="_blank" href="https://reactnative.dev/img/header_logo.svg" style="display: inline-block;"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-</div>
-</div>
-
----
-
-<h2 align="left">Activité GitHub visuelle</h2>
+## Activité
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -77,128 +43,110 @@ Arrivant au cours de mon cursus, je vise à intégrer une structure dynamique o�
   <img alt="github-snake" src="https://raw.githubusercontent.com/Tobi2o/Tobi2o/output/github-snake.svg" />
 </picture>
 
----
-
-<h2 align="left">Réseaux</h2>
+## Me trouver sur
 
 <div align="left">
-  <!-- Tu peux insérer ici tes logos de LinkedIn, Twitter, Discord, etc. -->
+  <!-- Logos sociaux -->
 </div>
 
+---
 
-###
 
-<!-- SECTION : Projets en cybersécurité -->
-<h2 align="left">Projets orientés cybersécurité</h2>
+## Projets orientés cybersécurité
 
-<h3 align="left">Cryptographie</h3>
-<ul>
-  <li>CTF - Chiffrement Vigenère et César (statistiques d’analyse)</li>
-  <li>CTF - Symmetric & MAC Forgery</li>
-  <li>CTF - ECDSA sans aléatoire, CRT Signature bug</li>
-  <li>Lab - Création d’une chaîne de certificats & vérification avec testssl</li>
-  <li>Mini-projet - Cryptographie (analyse & implémentation)</li>
-</ul>
+### Cryptographie
 
-<h3 align="left">Attaques par canaux auxiliaires</h3>
-<ul>
-  <li>CTF - AES leakage au 10e round (version bruitée, Hamming, aléatoire)</li>
-  <li>CTF - Analyse de fuite sur puce réelle (ChipWhisperer)</li>
-</ul>
+- CTF - Chiffrement Vigenère et César (statistiques d’analyse)
+- CTF - Symmetric & MAC Forgery
+- CTF - ECDSA sans aléatoire, CRT Signature bug
+- Lab - Création d’une chaîne de certificats & vérification avec testssl
+- Mini-projet - Cryptographie (analyse & implémentation)
 
-<h3 align="left">Reverse Engineering</h3>
-<ul>
-  <li>Lab - Analyse d’un malware simple</li>
-  <li>Lab - Sécurité Linux et exploitation</li>
-  <li>Lab - Obfuscation « Shikata ga nai »</li>
-</ul>
+### Attaques par canaux auxiliaires
 
-<h3 align="left">Pentest & Sécurité Web</h3>
-<ul>
-  <li>CTF - XSS, CSRF, et exploitation web avancée</li>
-</ul>
+- CTF - AES leakage au 10e round (version bruitée, Hamming, aléatoire)
+- CTF - Analyse de fuite sur puce réelle (ChipWhisperer)
 
-<h3 align="left">Analyse mémoire & Forensique</h3>
-<ul>
-  <li>Projet - Analyse de dump mémoire (Volatility)</li>
-</ul>
+### Reverse Engineering
 
-<h3 align="left">Autres</h3>
-<ul>
-  <li>CTF - Journal d'expériences personnelles (Dès le moment où je serai motivé à bien tenir à jour les writeups)</li>
-</ul>
+- Lab - Analyse d’un malware simple
+- Lab - Sécurité Linux et exploitation
+- Lab - Obfuscation « Shikata ga nai »
 
-###
+### Pentest & Sécurité Web
 
-<!-- SECTION : Projets personnels -->
-<h2 align="left">Projets de développement personnel</h2>
+- CTF - XSS, CSRF, et exploitation web avancée
 
-<ul>
-  Pour l'instant, je n'ai pas encore de projets personnels à partager au grand public. Mais je suis en train de travailler sur quelques idées que j'espère pouvoir dévoiler bientôt !
-</ul>
+### Analyse mémoire & Forensique
 
-###
+- Projet - Analyse de dump mémoire (Volatility)
 
-<!-- SECTION : Projets académiques -->
-<h2 align="left">Projets académiques (Semestres 1 à 6)</h2>
+### Autres
 
-<h3 align="left">Semestre 1</h3>
-<ul>
-  <li>PRG1 – Programmation 1</li>
-  <li>ISD – Introduction à la science des données</li>
-  <li>SYL – Systèmes logiques</li>
-</ul>
+- CTF - Journal d'expériences personnelles (à compléter)
 
-<h3 align="left">Semestre 2</h3>
-<ul>
-  <li>ARO – Architectures des ordinateurs</li>
-  <li>ISI – Introduction à la sécurité de l'information</li>
-  <li>ASD – Algorithmes et structures de données</li>
-  <li>PRG2 – Programmation 2</li>
-  <li>RXI – Réseaux informatiques</li>
-</ul>
+---
 
-<h3 align="left">Semestre 3</h3>
-<ul>
-  <li>DTS – Design thinking and sprint</li>
-  <li>PIN – Projet d'informatique</li>
-  <li>BDR – Bases de données relationnelles</li>
-  <li>DAI – Développement d'applications internet</li>
-  <li>POO – Programmation orientée objet</li>
-  <li>PCO – Programmation concurrente</li>
-  <li>SYE – Systèmes d'exploitation</li>
-</ul>
+## Projets de développement personnel
 
-<h3 align="left">Semestre 4</h3>
-<ul>
-  <li>CRY – Cryptographie</li>
-  <li>ASM – Programmation assembleur</li>
-  <li>PDL – Processus de développement en ingénierie logicielle</li>
-  <li>ARN – Apprentissage par réseaux de neurones artificiels</li>
-  <li>SRX – Sécurité des réseaux</li>
-  <li>CLD – Cloud Computing</li>
-  <li>WEB – Technologies web</li>
-</ul>
+- Pour l'instant, je n'ai pas encore de projets personnels à partager au grand public.   Mais je suis en train de travailler sur quelques idées que j'espère pouvoir dévoiler bientôt !
 
-<h3 align="left">Semestre 5</h3>
-<ul>
-  <li>PDG – Projet de groupe</li>
-  <li>DAA – Développement d'applications Android</li>
-  <li>SLH – Sécurité logicielle haut niveau</li>
-  <li>CAA – Cryptographie avancée appliquée</li>
-  <li>GOD – Gouvernance des données</li>
-  <li>SOS – Sécurité des systèmes d'exploitation</li>
-  <li>SLB – Sécurité logicielle bas niveau</li>
-  <li>AST – Audit de sécurité et test d'intrusion</li>
-  <li>GRS – Gestion des réseaux et sécurité opérationnelle</li>
-</ul>
+---
 
-<h3 align="left">Semestre 6</h3>
-<ul>
-  <li>ADS – Administration système</li>
-  <li>AMM – Analyse de mémoire et de malware</li>
-  <li>IOT – Internet des Objets</li>
-  <li>SFA – Side-channels and fault attacks</li>
-  <li>SSE – Séminaire en sécurité informatique</li>
-  <li>TB – Travail de Bachelor</li>
-</ul>
+## Projets académiques (Semestres 1 à 6)
+
+### Semestre 1
+
+- PRG1 – Programmation 1
+- ISD – Introduction à la science des données
+- SYL – Systèmes logiques
+
+### Semestre 2
+
+- ARO – Architectures des ordinateurs
+- ISI – Introduction à la sécurité de l'information
+- ASD – Algorithmes et structures de données
+- PRG2 – Programmation 2
+- RXI – Réseaux informatiques
+
+### Semestre 3
+
+- DTS – Design thinking and sprint
+- PIN – Projet d'informatique
+- BDR – Bases de données relationnelles
+- DAI – Développement d'applications internet
+- POO – Programmation orientée objet
+- PCO – Programmation concurrente
+- SYE – Systèmes d'exploitation
+
+### Semestre 4
+
+- CRY – Cryptographie
+- ASM – Programmation assembleur
+- PDL – Processus de développement en ingénierie logicielle
+- ARN – Apprentissage par réseaux de neurones artificiels
+- SRX – Sécurité des réseaux
+- CLD – Cloud Computing
+- WEB – Technologies web
+
+### Semestre 5
+
+- PDG – Projet de groupe
+- DAA – Développement d'applications Android
+- SLH – Sécurité logicielle haut niveau
+- CAA – Cryptographie avancée appliquée
+- GOD – Gouvernance des données
+- SOS – Sécurité des systèmes d'exploitation
+- SLB – Sécurité logicielle bas niveau
+- AST – Audit de sécurité et test d'intrusion
+- GRS – Gestion des réseaux et sécurité opérationnelle
+
+### Semestre 6
+
+- ADS – Administration système
+- AMM – Analyse de mémoire et de malware
+- IOT – Internet des Objets
+- SFA – Side-channels and fault attacks
+- SSE – Séminaire en sécurité informatique
+- TB – Travail de Bachelor
+

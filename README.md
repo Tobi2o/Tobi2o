@@ -11,24 +11,25 @@ En parallèle de mon intérêt pour la tech, je suis passionné par le sport, la
 
 ---
 
-<!-- Widgets (Spotify + GitHub) - compatible GitHub -->
+<!-- Widgets (Spotify + GitHub) - version équilibrée -->
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="360">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://novatorem-pv.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" />
         <source media="(prefers-color-scheme: light)" srcset="https://novatorem-pv.vercel.app/api/spotify?background_color=ffffff&border_color=000000" />
         <img src="https://novatorem-pv.vercel.app/api/spotify?background_color=ffffff&border_color=000000" alt="Spotify Now Playing" height="160" />
       </picture>
     </td>
-    <td align="center">
+    <td align="center" width="300">
       <img src="https://github-readme-stats.vercel.app/api?username=Tobi2o&theme=default&hide_border=false&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
     </td>
-    <td align="center">
+    <td align="center" width="300">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobi2o&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
 
 ---
 

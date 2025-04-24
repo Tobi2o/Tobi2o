@@ -7,36 +7,30 @@ Arrivant au cours de mon cursus, je vise à intégrer une structure dynamique o�
 
 
 
-<!-- DISPLAY 3 COLONNES : STATS | SPOTIFY | LANGUAGES -->
+<h2 align="left">Statistiques GitHub</h2>
+
 <div align="center">
-
-  <table>
-    <tr>
-      <td><strong>Mes statistiques</strong></td>
-      <td><strong>Ce que j'écoute</strong></td>
-      <td><strong>Langages les plus utilisés</strong></td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Tobi2o&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" />
-      </td>
-      <td>
-        <a href="https://open.spotify.com/user/Tobioo">
-          <img src="https://novatorem-pv.vercel.app/api/spotify" height="180" />
-        </a>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tobi2o&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" />
-      </td>
-    </tr>
-  </table>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Tobi2o&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tobi2o&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+---
+
+<h2 align="left">Ce que j’écoute actuellement</h2>
+
+<!-- Pour thème sombre -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://novatorem-pv.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://novatorem-pv.vercel.app/api/spotify?background_color=ffffff&border_color=000000" />
+  <img src="https://novatorem-pv.vercel.app/api/spotify?background_color=ffffff&border_color=000000" alt="Spotify Now Playing" />
+</picture>
 
 
-<!-- Logos de technos déjà fournis -->
-<div align="left">
+---
+
+<h2 align="left">Technologies & Outils</h2>
+
+<div align="left" style="margin-bottom: 20px;">
   <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.rust-lang.org/" style="display: inline-block;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="42" height="42" />
@@ -71,24 +65,25 @@ Arrivant au cours de mon cursus, je vise à intégrer une structure dynamique o�
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 </div>
-
-###
-
-<!-- Réseaux sociaux -->
-<div align="left">
-  <!-- (ta section avec les logos LinkedIn, Twitter, etc.) -->
 </div>
 
-###
+---
 
-<!-- Animation snake (inchangé) -->
+<h2 align="left">Activité GitHub visuelle</h2>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tobi2o/Tobi2o/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Tobi2o/Tobi2o/output/github-snake.svg" />
 </picture>
 
-###
+---
+
+<h2 align="left">Réseaux</h2>
+
+<div align="left">
+  <!-- Tu peux insérer ici tes logos de LinkedIn, Twitter, Discord, etc. -->
+</div>
 
 
 ###

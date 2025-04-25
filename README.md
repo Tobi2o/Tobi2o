@@ -20,7 +20,6 @@ En parallèle de mon intérêt pour la tech, je suis passionné par le sport, la
     </picture>
   </span>
 
-    <!-- GitHub Stats -->
   <span style="float:left; margin-right: 20px;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Tobi2o&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&v=2" />
@@ -29,7 +28,6 @@ En parallèle de mon intérêt pour la tech, je suis passionné par le sport, la
     </picture>
   </span>
 
-  <!-- Top Languages -->
   <span style="float:left;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobi2o&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=2" />

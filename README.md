@@ -1,4 +1,3 @@
-
 # Whoami
 
 Yoo, je m'appelle Ouweis Harun et je suis un étudiant en ingénierie informatique à l'HEIG-VD, spécialisé en cybersécurité.
@@ -21,11 +20,20 @@ En parallèle de mon intérêt pour la tech, je suis passionné par le sport, la
   </span>
 
   <span style="float:left; margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Tobi2o&theme=default&hide_border=false&include_all_commits=true&count_private=true" height="160" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Tobi2o&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&v=2" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Tobi2o&theme=vue&hide_border=false&include_all_commits=true&count_private=true&v=2" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Tobi2o&theme=vue&hide_border=false&include_all_commits=true&count_private=true&v=2" height="160" />
+    </picture>
   </span>
 
+  <!-- Top Languages -->
   <span style="float:left;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobi2o&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobi2o&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=2" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobi2o&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=2" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobi2o&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=2" height="160" />
+    </picture>
   </span>
 </p>
 
@@ -92,60 +100,61 @@ Pour l'instant, je n'ai pas encore de projets personnels que je trouve assez ter
 
 Ici, vous trouverez les liens vers différents modules et projets réalisés au cours de mes études à l'HEIG-VD. Ces projets couvrent un large éventail de sujets. Les cours manquants seront ajoutés au fur et à mesure de leur réalisation.
 
+---
+
 ### Semestre 1
 
-- [PRG1 – Programmation 1](#à-remplir)
-- [ISD – Introduction à la science des données](#à-remplir)
-- [SYL – Systèmes logiques](#à-remplir)
+- [PRG1 – Programmation 1](https://github.com/Tobi2o/PRG1)
+- [ISD – Introduction à la science des données](https://github.com/Tobi2o/ISD)
+- [SYL – Systèmes logiques](https://github.com/Tobi2o/SYL)
 
 ### Semestre 2
 
-- [ARO – Architectures des ordinateurs](#à-remplir)
-- [ISI – Introduction à la sécurité de l'information](#à-remplir)
-- [ASD – Algorithmes et structures de données](#à-remplir)
-- [PRG2 – Programmation 2](#à-remplir)
-- [RXI – Réseaux informatiques](#à-remplir)
-- [DTS – Design thinking and sprint](#à-remplir)
-- [PIN – Projet d'informatique](#à-remplir)
+- [ARO – Architectures des ordinateurs](https://github.com/Tobi2o/ARO)
+- [ISI – Introduction à la sécurité de l'information](https://github.com/Tobi2o/ISI)
+- [ASD – Algorithmes et structures de données](https://github.com/Tobi2o/ASD)
+- [PRG2 – Programmation 2](https://github.com/Tobi2o/PRG2)
+- [RXI – Réseaux informatiques](https://github.com/Tobi2o/RXI)
+- [DTS – Design thinking and sprint](https://github.com/Tobi2o/DTS)
+- [PIN – Projet d'informatique](https://github.com/Tobi2o/PIN)
 
 ### Semestre 3
 
-- [BDR – Bases de données relationnelles](#à-remplir)
-- [DAI – Développement d'applications internet](#à-remplir)
-- [POO – Programmation orientée objet](#à-remplir)
-- [PCO – Programmation concurrente](#à-remplir)
-- [SYE – Systèmes d'exploitation](#à-remplir)
+- [BDR – Bases de données relationnelles](https://github.com/Tobi2o/BDR)
+- [DAI – Développement d'applications internet](https://github.com/Tobi2o/DAI)
+- [POO – Programmation orientée objet](https://github.com/Tobi2o/POO)
+- [PCO – Programmation concurrente](https://github.com/Tobi2o/PCO)
+- [SYE – Systèmes d'exploitation](https://github.com/Tobi2o/SYE)
 
 ### Semestre 4
 
-- [CRY – Cryptographie](#à-remplir)
-- [ASM – Programmation assembleur](#à-remplir)
-- [PDL – Processus de développement en ingénierie logicielle](#à-remplir)
-- [ARN – Apprentissage par réseaux de neurones artificiels](#à-remplir)
-- [SRX – Sécurité des réseaux](#à-remplir)
-- [CLD – Cloud Computing](#à-remplir)
-- [WEB – Technologies web](#à-remplir)
-- [PDG – Projet de groupe](#à-remplir)
+- [CRY – Cryptographie](https://github.com/Tobi2o/CRY)
+- [ASM – Programmation assembleur](https://github.com/Tobi2o/ASM)
+- [PDL – Processus de développement en ingénierie logicielle](https://github.com/Tobi2o/PDL)
+- [ARN – Apprentissage par réseaux de neurones artificiels](https://github.com/Tobi2o/ARN)
+- [SRX – Sécurité des réseaux](https://github.com/Tobi2o/SRX)
+- [CLD – Cloud Computing](https://github.com/Tobi2o/CLD)
+- [WEB – Technologies web](https://github.com/Tobi2o/WEB)
+- [PDG – Projet de groupe](https://github.com/Tobi2o/PDG)
 
 ### Semestre 5
 
-- [DAA – Développement d'applications Android](#à-remplir)
-- [SLH – Sécurité logicielle haut niveau](#à-remplir)
-- [CAA – Cryptographie avancée appliquée](#à-remplir)
-- [GOD – Gouvernance des données](#à-remplir)
-- [SOS – Sécurité des systèmes d'exploitation](#à-remplir)
-- [SLB – Sécurité logicielle bas niveau](#à-remplir)
-- [AST – Audit de sécurité et test d'intrusion](#à-remplir)
-- [GRS – Gestion des réseaux et sécurité opérationnelle](#à-remplir)
+- [DAA – Développement d'applications Android](https://github.com/Tobi2o/DAA)
+- [SLH – Sécurité logicielle haut niveau](https://github.com/Tobi2o/SLH)
+- [CAA – Cryptographie avancée appliquée](https://github.com/Tobi2o/CAA)
+- [GOD – Gouvernance des données](https://github.com/Tobi2o/GOD)
+- [SOS – Sécurité des systèmes d'exploitation](https://github.com/Tobi2o/SOS)
+- [SLB – Sécurité logicielle bas niveau](https://github.com/Tobi2o/SLB)
+- [AST – Audit de sécurité et test d'intrusion](https://github.com/Tobi2o/AST)
+- [GRS – Gestion des réseaux et sécurité opérationnelle](https://github.com/Tobi2o/GRS)
 
 ### Semestre 6
 
-- [ADS – Administration système](#à-remplir)
-- [AMM – Analyse de mémoire et de malware](#à-remplir)
-- [IOT – Internet des Objets](#à-remplir)
-- [SFA – Side-channels and fault attacks](#à-remplir)
-- [SSE – Séminaire en sécurité informatique](#à-remplir)
-- [TB – Travail de Bachelor (Confidentiel)](#à-remplir)
+- [ADS – Administration système](https://github.com/Tobi2o/ADS)
+- [AMM – Analyse de mémoire et de malware](https://github.com/Tobi2o/AMM)
+- [IOT – Internet des Objets](https://github.com/Tobi2o/IOT)
+- [SFA – Side-channels and fault attacks](https://github.com/Tobi2o/SFA)
+- [SSE – Séminaire en sécurité informatique](https://github.com/Tobi2o/SSE)
+- [TB – Travail de Bachelor (Confidentiel)](https://github.com/Tobi2o/TB)
 
 ---
-

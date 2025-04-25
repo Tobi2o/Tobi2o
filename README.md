@@ -11,8 +11,8 @@ En parallèle de mon intérêt pour la tech, je suis passionné par le sport, la
 
 ---
 
-<!-- Bloc Spotify seul et bien centré -->
-<div align="center">
+<!-- Bloc Spotify seul et centré -->
+<div align="center" style="margin-bottom: 20px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://novatorem-pv.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" />
     <source media="(prefers-color-scheme: light)" srcset="https://novatorem-pv.vercel.app/api/spotify?background_color=ffffff&border_color=000000" />

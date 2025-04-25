@@ -13,14 +13,16 @@ En parallèle de mon intérêt pour la tech, je suis passionné par le sport, la
 
 <p align="center">
 
-  <span style="float:left;">
+  <!-- Spotify en haut -->
+  <div style="margin-bottom: 10px;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://novatorem-pv.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" />
       <source media="(prefers-color-scheme: light)" srcset="https://novatorem-pv.vercel.app/api/spotify?background_color=ffffff&border_color=000000" />
       <img src="https://novatorem-pv.vercel.app/api/spotify?background_color=ffffff&border_color=000000" height="160" />
     </picture>
-  </span>
+  </div>
 
+  <!-- GitHub Stats à gauche -->
   <span style="float:left; margin-right: 20px;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Tobi2o&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&v=2" />
@@ -29,14 +31,17 @@ En parallèle de mon intérêt pour la tech, je suis passionné par le sport, la
     </picture>
   </span>
 
-  <span style="float:left; margin-right: 20px;">
+  <!-- Top Langs à droite -->
+  <span style="float:left;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobi2o&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=2" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobi2o&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=2" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobi2o&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=2" height="160" />
     </picture>
   </span>
+
 </p>
+
 
 ---
 

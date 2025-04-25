@@ -1,4 +1,3 @@
-
 # Whoami
 
 Yoo, je m'appelle Ouweis Harun et je suis un étudiant en ingénierie informatique à l'HEIG-VD, spécialisé en cybersécurité.

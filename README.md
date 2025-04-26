@@ -1,4 +1,3 @@
-
 # Whoami
 
 Yoo, je m'appelle Ouweis Harun et je suis un étudiant en ingénierie informatique à l'HEIG-VD, spécialisé en cybersécurité.
@@ -7,7 +6,7 @@ Actuellement en dernière année de Bachelor, je m’intéresse à la fois aux a
 
 Ce dépôt GitHub a pour objectif de rassembler l'ensemble de mes projets, exercices et réalisations techniques, afin de garder une trace structurée de mon parcours et de valoriser mes compétences à long terme. Il me sert également de vitrine professionnelle dans le cadre de ma recherche d'emploi dans le domaine de la cybersécurité.
 
-En parallèle de mon intérêt pour la tech, je suis passionné par le sport, la musique et tout ce qui touche à l'automation.
+En parallèle de mon intérêt pour la tech, je suis passionné par le sport, la musique, l'audiovisuel et tout ce qui touche à l'automation.
 
 ---
 
@@ -93,7 +92,7 @@ Dans cette section, nous trouvons des projets orientés cybersécurité, réalis
 
 Pour l'instant, je n'ai pas encore de projets personnels que je trouve assez terminé pour les partager au grand public. Mais je suis en train de travailler sur quelques idées que j'espère pouvoir dévoiler bientôt !
 
-- [À venir – Projets en cours de développement](#à-remplir)
+- [Projets en cours de développement](#à-remplir)
 
 ---
 

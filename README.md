@@ -51,6 +51,20 @@ En parallèle de mon intérêt pour la tech, je suis passionné par le sport, la
 
 ---
 
+## Remarques importantes avant de plonger dans les projets
+
+> Tous les liens vers les projets ne sont pas encore actifs ou finalisés — c’est normal, certains dépôts restent en cours d’organisation ou de mise à jour.
+>
+> Les projets ici présents (surtout ceux issus de formations académiques) sont avant tout partagés à titre pédagogique et illustratif. Leur but est de montrer ma progression, mon raisonnement, et ma manière de structurer des solutions techniques.
+>
+> Libre à chacun de s’en inspirer, bien sûr — mais un simple copier-coller, notamment pour des travaux scolaires, n’aurait ni valeur d’apprentissage, ni sens.
+>
+> En bref : servez-vous de ce contenu pour apprendre, pas pour tricher. Faites-en bon usage
+
+---
+
+
+
 ## Projets orientés cybersécurité
 
 Dans cette section, nous trouvons des projets orientés cybersécurité, réalisés dans le cadre de mes études ou de mes activités personnelles. Ils sont classés par catégorie pour une meilleure lisibilité.

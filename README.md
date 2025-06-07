@@ -71,11 +71,13 @@ Dans cette section, nous trouvons des projets orientés cybersécurité, réalis
 
 ### Cryptographie
 
-- [CTF - Chiffrement Vigenère et César (statistiques d’analyse)](#à-remplir)
-- [CTF - Symmetric & MAC Forgery](#à-remplir)
-- [CTF - ECDSA sans aléatoire, CRT Signature bug](#à-remplir)
-- [Lab - Création d’une chaîne de certificats & vérification avec testssl](#à-remplir)
-- [Mini-projet - Cryptographie (analyse & implémentation)](#à-remplir)
+- [CTF - Chiffrement Vigenère et César (statistiques d’analyse)](https://github.com/Tobi2o/CRY/tree/main/L1)
+- [CTF - Symmetric & MAC Forgery](https://github.com/Tobi2o/CRY/tree/main/L2/Harun_Ouweis)
+- [CTF - ECDSA sans aléatoire, CRT Signature bug](https://github.com/Tobi2o/CRY/tree/main/L3)
+- [Lab - Création d’une chaîne de certificats & vérification avec testssl](https://github.com/Tobi2o/CRY/tree/main/L4/Fichiers)
+- [Lab - Mise en place et gestion de Vault (stockage sécurisé de secrets)](https://github.com/Tobi2o/CAA/tree/main/Labo1/docs)
+- [Lab - Attaques sur ECDSA : LLL, nonce prévisible & dérivation](https://github.com/Tobi2o/CAA/tree/main/Labo2)
+- [Mini-projet - Cryptographie (analyse & implémentation)](https://github.com/Tobi2o/CAA/tree/main/Mini-projet)
 
 ### Attaques par canaux auxiliaires
 
@@ -84,13 +86,13 @@ Dans cette section, nous trouvons des projets orientés cybersécurité, réalis
 
 ### Reverse Engineering
 
-- [Lab - Analyse d’un malware simple](#à-remplir)
-- [Lab - Sécurité Linux et exploitation](#à-remplir)
-- [Lab - Obfuscation « Shikata ga nai »](#à-remplir)
+- [Lab - Analyse d’un malware simple](https://github.com/Tobi2o/SLB/tree/main/Lab01)
+- [Lab - Sécurité Linux et exploitation](https://github.com/Tobi2o/SLB/tree/main/Lab02)
+- [Lab - Obfuscation « Shikata ga nai »](https://github.com/Tobi2o/SLB/tree/main/Lab03)
 
 ### Pentest & Sécurité Web
 
-- [CTF - XSS, CSRF, et exploitation web avancée](#à-remplir)
+- [CTF - XSS, CSRF, et exploitation web avancée](https://github.com/Tobi2o/SLH/tree/main/Lab1)
 
 ### Analyse mémoire & Forensique
 

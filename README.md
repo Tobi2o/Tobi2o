@@ -5,7 +5,9 @@ Salut, je suis Ouweis Harun
 Ingénieur en informatique diplômé de l’HEIG-VD, spécialisé en cybersécurité.
 Je m’intéresse à la fois aux aspects offensifs (tests d’intrusion, analyse de vulnérabilités) et défensifs (durcissement des systèmes, forensic, sécurité des applications) de la cybersécurité, que j’explore à travers mes projets professionnels, mes réalisations personnelles et ma veille technologique.
 
-Ce dépôt GitHub a pour objectif de rassembler l'ensemble de mes projets, exercices et réalisations techniques, afin de garder une trace structurée de mon parcours et de valoriser mes compétences à long terme. Il me sert également de vitrine professionnelle dans le cadre de ma recherche d'emploi dans le domaine de la cybersécurité.
+Ce dépôt GitHub a pour objectif de rassembler l'ensemble de mes projets académiques/publiques, exercices et réalisations techniques, afin de garder une trace structurée de mon parcours et de valoriser mes compétences à long terme. Il me sert également de vitrine professionnelle dans le cadre de ma recherche d'emploi dans le domaine de la cybersécurité.
+
+J'utilise un compte anonyme pour créer d'autres projets que je ne souhaite pas lié à mon nom directement donc mon activité ici n'est pas à prendre au premier degré.
 
 En parallèle de mon intérêt pour la tech, je suis passionné par le sport, la musique et tout ce qui touche à l'automation.
 

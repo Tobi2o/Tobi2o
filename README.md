@@ -117,7 +117,7 @@ Pour l'instant, je n'ai pas encore de projets personnels que je trouve assez ter
 
 ## Projets académiques (Semestres 1 à 6)
 
-Ici, vous trouverez les liens vers différents modules et projets réalisés au cours de mes études à l'HEIG-VD. Ces projets couvrent un large éventail de sujets. Les cours manquants seront ajoutés au fur et à mesure de leur réalisation.
+Ici, vous trouverez les liens vers différents modules et projets réalisés au cours de mes études à l'HEIG-VD. Ces projets couvrent un large éventail de sujets.
 
 ---
 
